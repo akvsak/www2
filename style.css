@@ -9,7 +9,12 @@ body {
   font-family: Verdana;
   font-size: 20px;
 }*/
-
+pre {
+	overflow:auto;
+/*	word-wrap: 600px;
+	overflow-x: auto;
+	white-space: pre; */
+}
 body {
   --text-color: #222;
   --bkg-color: #fff;
